@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "USW 35",
+"dataUrl": "StraddlingBoundaries.data.unityweb",
+"asmCodeUrl": "StraddlingBoundaries.asm.code.unityweb",
+"asmMemoryUrl": "StraddlingBoundaries.asm.memory.unityweb",
+"asmFrameworkUrl": "StraddlingBoundaries.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
